@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christopher Meyer aka Onestroke!
 - 👀 I’m interested in Machine Learning especially Natural Language Processing and Neural Networks.
 - 🖼 I’m currently learning how to do image classification using CNNs with Pytorch.
-- 🏆 I’m currently taking a course through Udacity to become a Machine Learning Engineer.
+- 🏆 I have completed the Machine Learning Engineer nanodegree at Udacity.com.
 - 📫 You can reach me at onestroke1@yahoo.com
 
 <!---
